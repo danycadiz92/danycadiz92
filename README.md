@@ -5,7 +5,7 @@
 
 - 💬 Análisis de datos con Python. Ciberseguridad: Kali Linux, pruebas de penetración **Pandas, NumPy, Matplotlib**
 
-- 📫 Email, LinkedIn, GitHub. **dany.cadiz.92@gmail.com,**
+- 📫 Email, LinkedIn, GitHub. **dany.cadiz.92@gmail.com, https://github.com/danycadiz92/danycadiz92**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
